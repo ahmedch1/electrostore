@@ -1,0 +1,4 @@
+name: electrostore
+recipe: lamp
+config:
+  webroot: .
