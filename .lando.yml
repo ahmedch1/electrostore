@@ -2,7 +2,7 @@ name: electrostore
 recipe: lamp
 config:
   php: '8.1'
-  webroot: .
+  webroot: /web
 services:
   phpmyadmin:
     type: phpmyadmin
